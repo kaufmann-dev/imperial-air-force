@@ -7,3 +7,4 @@
 *.exe
 *.txt
 *.props
+obj/
